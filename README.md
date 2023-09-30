@@ -13,11 +13,11 @@ cout << "Olá, me chamo Taiane Rodrigues de Sousa!";
 - 💻 Sou apaixonada por tecnologia e adoro aprender coisas novas
 - 👩🏽‍💻 Programo profissionalmente há 3 anos
 
-- 📫 Você pode me encontrar nos link ao clicar neste ícone: [<img alt="Linktree" width="25px" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png">](https://linktr.ee/taianers)
+- 📫 Você pode me encontrar nos links ao clicar neste ícone: [<img alt="Linktree" width="25px" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png">](https://linktr.ee/taianers)
 
 ## Experiências profissionais
 
-<img alt="GIF" src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="200" height="200"/>
 
 **Estagiária de desenvolvimento de software na [DTI DIGITAL](https://www.dtidigital.com.br/)**
 
