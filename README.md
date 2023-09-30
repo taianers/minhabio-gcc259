@@ -3,8 +3,9 @@
 ```
 cout << "Olá, me chamo Taiane Rodrigues de Sousa!";
 ```
-
-![Perfil](foto.jpg)
+<p align="center">
+  <img src="foto.jpg" width="547" height="364">
+</p>
 
 ---
 
